@@ -1,0 +1,52 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using System;
+
+/* 
+**************************************************************************************************************
+Copyright/版权 (C) #Year The #CompanyName. All Rights Reserved. 保留所有权利。
+File Name/文件名:           #SCRIPTNAME#.cs
+Discription/描述:     		#Discription
+Author/作者:             	#AuthorName
+CreateTime/创建时间:        #CreateTime
+Motto/座右铭:
+Where there is ambition, everything will be done, and the boat will sink. 
+The Pass of the 12th Qin Dynasty belongs to the Chu Dynasty. A painstaking man, who will live up to his fate, 
+will live up to his courage, and three thousand Yuejia will swallow up Wu.
+																	———— Pu Songling
+有志者，事竟成，破釜沉舟，百二秦关终属楚；苦心人，天不负，卧薪尝胆，三千越甲可吞吴。
+																	————  蒲松龄
+**************************************************************************************************************
+*/
+
+namespace MFramework
+{
+    public class #SCRIPTNAME# : BasePanel
+    {
+        private void Awake()
+        {
+			#NOTRIM#
+        }
+
+        private void OnEnable()
+        {
+			#NOTRIM#
+        }
+
+        private void OnDisable()
+        {
+			#NOTRIM#
+        }
+
+        private void Start()
+        {
+			#NOTRIM#
+        }
+
+        private void Update()
+        {
+			#NOTRIM#
+        }
+    }
+}
